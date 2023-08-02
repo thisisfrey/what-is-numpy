@@ -3,8 +3,8 @@
 ## Contents
 
 1. [Introduction to NumPy](docs/intro-to-numpy.md)
-2. [Slicing NumPy Arrays](docs/slicing-numpy-arrays.md)
-3. [Iterating through NumPy Arrays](docs/iterating-through-numpy-arrays.md)
+2. [Slicing Arrays](docs/slicing-arrays.md)
+3. [Iterating through Arrays](docs/iterating-through-arrays.md)
 4. [NumPy Array Copy vs View](docs/numpy-array-copy-vs-view.md)
 5. [NumPy Universal Functions](docs/numpy-universal-functions.md)
 6. [Shape and Reshape NumPy Arrays](docs/shape-and-reshape-numpy-arrays.md)
