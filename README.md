@@ -6,8 +6,8 @@
 2. [Slicing Arrays](docs/slicing-arrays.md)
 3. [Iterating through Arrays](docs/iterating-through-arrays.md)
 4. [Copy vs View](docs/copy-vs-view.md)
-5. [Shape and Reshape NumPy Arrays](docs/shape-and-reshape-numpy-arrays.md)
-6. [NumPy Universal Functions](docs/numpy-universal-functions.md)
+5. [Shape and Reshape](docs/shape-and-reshape.md)
+6. [Universal Functions](docs/universal-functions.md)
 
 ## Installation & Usage
 
@@ -25,6 +25,6 @@ import numpy as np
 
 Once imported, you can start utilizing NumPy's powerful features for numerical computations, including creating arrays,
 performing mathematical operations, and much more.
-
+---
 For more information and detailed usage examples, please refer to the [official NumPy
-documentation](https://numpy.org/doc/stable/) .
+documentation](https://numpy.org/doc/stable/).

@@ -1,6 +1,6 @@
-# Shape and Reshape NumPy Arrays
+# Shape and Reshape
 
-This [code](../numpy_for_machine_learning/shape_and_reshape_numpy_arrays.py) demonstrates the creation of 1D and 2D
+This [code](../numpy_for_machine_learning/shape_and_reshape.py) demonstrates the creation of 1D and 2D
 Numpy arrays and explores various reshaping techniques available in
 Numpy. Understanding the concept of shapes and reshaping is essential for working with multi-dimensional arrays and
 manipulating data efficiently.
