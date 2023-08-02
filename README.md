@@ -6,8 +6,8 @@
 2. [Slicing Arrays](docs/slicing-arrays.md)
 3. [Iterating through Arrays](docs/iterating-through-arrays.md)
 4. [Copy vs View](docs/copy-vs-view.md)
-5. [NumPy Universal Functions](docs/numpy-universal-functions.md)
-6. [Shape and Reshape NumPy Arrays](docs/shape-and-reshape-numpy-arrays.md)
+5. [Shape and Reshape NumPy Arrays](docs/shape-and-reshape-numpy-arrays.md)
+6. [NumPy Universal Functions](docs/numpy-universal-functions.md)
 
 ## Installation & Usage
 
