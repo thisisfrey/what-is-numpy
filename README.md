@@ -25,6 +25,8 @@ import numpy as np
 
 Once imported, you can start utilizing NumPy's powerful features for numerical computations, including creating arrays,
 performing mathematical operations, and much more.
+
 ---
+
 For more information and detailed usage examples, please refer to the [official NumPy
 documentation](https://numpy.org/doc/stable/).
