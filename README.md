@@ -8,6 +8,9 @@
 4. [Copy vs View](docs/copy-vs-view.md)
 5. [Shape and Reshape](docs/shape-and-reshape.md)
 6. [Universal Functions](docs/universal-functions.md)
+7. [Sorting Arrays](docs/sorting-arrays.md)
+8. [Searching Arrays](docs/searching-arrays.md)
+9. [Filter Arrays](docs/filter-arrays.md)
 
 ## Installation & Usage
 
